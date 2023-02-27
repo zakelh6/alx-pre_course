@@ -1,1 +1,0 @@
-# ALX pre-course
